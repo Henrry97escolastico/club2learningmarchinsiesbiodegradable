@@ -1,2 +1,2 @@
-#Club2_2 si es biodegradable 
+# Club2_2 si es biodegradable 
 plantilla para clubes 
